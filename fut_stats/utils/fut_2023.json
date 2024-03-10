@@ -1,0 +1,2192 @@
+[
+    {
+        "date": "2023-01-07T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Schons"
+            },
+            {
+                "name": "Dani"
+            }
+        ],
+        "goals_team_a": 12,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-01-14T15:30:00",
+        "team_a": [
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Oppa"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Felipe Rosa"
+            }
+        ],
+        "goals_team_a": 10,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-01-21T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Dani"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "goals_team_a": 9,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-01-28T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Dani"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "goals_team_a": 16,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-02-03T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Oppa"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Ota"
+            },
+            {
+                "name": "Lui (colega Tuco)"
+            }
+        ],
+        "goals_team_a": 6,
+        "goals_team_b": 4
+    },
+    {
+        "date": "2023-02-04T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "João Manke"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Felipe Rosa"
+            },
+            {
+                "name": "Luiz Manke (irmão do João)"
+            }
+        ],
+        "goals_team_a": 4,
+        "goals_team_b": 2
+    },
+    {
+        "date": "2023-02-04T16:30:00",
+        "team_a": [
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "João Manke"
+            },
+            {
+                "name": "Pedro"
+            },
+            {
+                "name": "Oppa"
+            },
+            {
+                "name": "Luiz Manke (irmão do João)"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "goals_team_a": 14,
+        "goals_team_b": 2
+    },
+    {
+        "date": "2023-02-06T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Marcelinho (colega Quint)"
+            },
+            {
+                "name": "Oppa"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "André GK"
+            }
+        ],
+        "goals_team_a": 8,
+        "goals_team_b": 7
+    },
+    {
+        "date": "2023-02-11T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Ota"
+            },
+            {
+                "name": "Pedro"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Rafa"
+            }
+        ],
+        "goals_team_a": 8,
+        "goals_team_b": 6
+    },
+    {
+        "date": "2023-02-13T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Oppa"
+            },
+            {
+                "name": "Biasi (colega Quint)"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Felipe Rosa"
+            },
+            {
+                "name": "Marcelinho (colega Quint)"
+            }
+        ],
+        "goals_team_a": 13,
+        "goals_team_b": 10
+    },
+    {
+        "date": "2023-02-25T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Felipe Rosa"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Otavio GK (colega Murilo)"
+            }
+        ],
+        "goals_team_a": 11,
+        "goals_team_b": 6
+    },
+    {
+        "date": "2023-02-27T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Felipe Rosa"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Dani"
+            }
+        ],
+        "goals_team_a": 17,
+        "goals_team_b": 7
+    },
+    {
+        "date": "2023-03-04T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Murilo Joça GK"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Schons"
+            },
+            {
+                "name": "Dani"
+            },
+            {
+                "name": "Pedro"
+            }
+        ],
+        "goals_team_a": 8,
+        "goals_team_b": 6
+    },
+    {
+        "date": "2023-03-11T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Ota"
+            },
+            {
+                "name": "Pedro"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Rafa"
+            }
+        ],
+        "goals_team_a": 14,
+        "goals_team_b": 9
+    },
+    {
+        "date": "2023-03-18T15:30:00",
+        "team_a": [
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Dani"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Oppa"
+            }
+        ],
+        "goals_team_a": 14,
+        "goals_team_b": 3
+    },
+    {
+        "date": "2023-03-25T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Moises"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Zé Love"
+            }
+        ],
+        "goals_team_a": 9,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-04-01T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "team_b": [],
+        "goals_team_a": 8,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-04-06T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Vini (colega Zé Love)"
+            }
+        ],
+        "goals_team_a": 10,
+        "goals_team_b": 7
+    },
+    {
+        "date": "2023-04-07T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Ota"
+            },
+            {
+                "name": "Luiz Manke (irmão do João)"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "João Manke"
+            }
+        ],
+        "goals_team_a": 11,
+        "goals_team_b": 10
+    },
+    {
+        "date": "2023-04-08T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Itamar GK (pai do Moisés)"
+            },
+            {
+                "name": "Luiz Manke (irmão do João)"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "João Manke"
+            },
+            {
+                "name": "Pedro"
+            }
+        ],
+        "goals_team_a": 10,
+        "goals_team_b": 7
+    },
+    {
+        "date": "2023-04-15T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Igor"
+            }
+        ],
+        "goals_team_a": 13,
+        "goals_team_b": 6
+    },
+    {
+        "date": "2023-04-21T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Dani"
+            }
+        ],
+        "goals_team_a": 7,
+        "goals_team_b": 4
+    },
+    {
+        "date": "2023-04-22T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Pedro"
+            },
+            {
+                "name": "Vitor Berreta (colega Rayes)"
+            }
+        ],
+        "team_b": [],
+        "goals_team_a": 13,
+        "goals_team_b": 13
+    },
+    {
+        "date": "2023-04-29T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Luis Martins (colega Duds)"
+            },
+            {
+                "name": "Pedro"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Vitinho Hasse"
+            }
+        ],
+        "goals_team_a": 9,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-05-13T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Ota"
+            },
+            {
+                "name": "Schons"
+            },
+            {
+                "name": "Itamar GK (pai do Moisés)"
+            }
+        ],
+        "goals_team_a": 11,
+        "goals_team_b": 9
+    },
+    {
+        "date": "2023-05-20T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Martinez"
+            },
+            {
+                "name": "Pedro"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Vitinho Hasse"
+            }
+        ],
+        "goals_team_a": 8,
+        "goals_team_b": 7
+    },
+    {
+        "date": "2023-05-27T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Dani"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Igor"
+            },
+            {
+                "name": "Luis Martins (colega Duds)"
+            },
+            {
+                "name": "Lucas Augusto"
+            }
+        ],
+        "goals_team_a": 5,
+        "goals_team_b": 2
+    },
+    {
+        "date": "2023-06-04T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Tuco"
+            },
+            {
+                "name": "Itamar GK (pai do Moisés)"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Candemil"
+            }
+        ],
+        "goals_team_a": 12,
+        "goals_team_b": 5
+    },
+    {
+        "date": "2023-06-10T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Tuco"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Martinez"
+            },
+            {
+                "name": "Vigorito"
+            }
+        ],
+        "goals_team_a": 8,
+        "goals_team_b": 6
+    },
+    {
+        "date": "2023-06-17T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Schons"
+            },
+            {
+                "name": "Martinez"
+            },
+            {
+                "name": "Tuco"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Zé Love"
+            }
+        ],
+        "goals_team_a": 6,
+        "goals_team_b": 4
+    },
+    {
+        "date": "2023-06-24T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Martinez"
+            }
+        ],
+        "goals_team_a": 14,
+        "goals_team_b": 11
+    },
+    {
+        "date": "2023-07-01T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Martinez"
+            },
+            {
+                "name": "João Manke"
+            },
+            {
+                "name": "Luiz Manke (irmão do João)"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Zé Love"
+            }
+        ],
+        "goals_team_a": 11,
+        "goals_team_b": 9
+    },
+    {
+        "date": "2023-07-08T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Murilo Joça GK"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Tuco"
+            }
+        ],
+        "goals_team_a": 7,
+        "goals_team_b": 6
+    },
+    {
+        "date": "2023-07-15T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "team_b": [],
+        "goals_team_a": 14,
+        "goals_team_b": 14
+    },
+    {
+        "date": "2023-07-22T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Ota"
+            },
+            {
+                "name": "Schons"
+            },
+            {
+                "name": "Tuco"
+            }
+        ],
+        "team_b": [],
+        "goals_team_a": 7,
+        "goals_team_b": 7
+    },
+    {
+        "date": "2023-07-29T15:30:00",
+        "team_a": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "goals_team_a": 12,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-08-05T15:30:00",
+        "team_a": [
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Igor"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Felipe Rosa"
+            }
+        ],
+        "goals_team_a": 8,
+        "goals_team_b": 6
+    },
+    {
+        "date": "2023-08-12T15:30:00",
+        "team_a": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "João Manke"
+            },
+            {
+                "name": "Luiz Manke (irmão do João)"
+            },
+            {
+                "name": "Mauro Calói PR GK"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Luis Martins (colega Duds)"
+            }
+        ],
+        "goals_team_a": 10,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-08-19T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Vitinho Hasse"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Ota"
+            }
+        ],
+        "goals_team_a": 11,
+        "goals_team_b": 10
+    },
+    {
+        "date": "2023-08-26T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Zé Love"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Moises"
+            }
+        ],
+        "goals_team_a": 16,
+        "goals_team_b": 15
+    },
+    {
+        "date": "2023-09-02T15:30:00",
+        "team_a": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Lessandro"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Rafa"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Schons"
+            }
+        ],
+        "goals_team_a": 12,
+        "goals_team_b": 5
+    },
+    {
+        "date": "2023-09-09T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "André GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Candemil"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Rayes GK"
+            }
+        ],
+        "goals_team_a": 11,
+        "goals_team_b": 9
+    },
+    {
+        "date": "2023-09-23T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Felipe Rosa"
+            },
+            {
+                "name": "Lessandro"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Rafa"
+            }
+        ],
+        "goals_team_a": 14,
+        "goals_team_b": 11
+    },
+    {
+        "date": "2023-09-30T15:30:00",
+        "team_a": [
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Felipe Rosa"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Lessandro"
+            }
+        ],
+        "goals_team_a": 8,
+        "goals_team_b": 5
+    },
+    {
+        "date": "2023-10-21T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Felipe Rosa"
+            }
+        ],
+        "team_b": [],
+        "goals_team_a": 10,
+        "goals_team_b": 10
+    },
+    {
+        "date": "2023-10-28T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Zé Love"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Schons"
+            },
+            {
+                "name": "Tuco"
+            }
+        ],
+        "team_b": [],
+        "goals_team_a": 10,
+        "goals_team_b": 10
+    },
+    {
+        "date": "2023-11-18T15:30:00",
+        "team_a": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Murilo Joça GK"
+            },
+            {
+                "name": "Tuco"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Vitinho Hasse"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Daniel Schroder GK"
+            }
+        ],
+        "goals_team_a": 10,
+        "goals_team_b": 6
+    },
+    {
+        "date": "2023-11-25T15:30:00",
+        "team_a": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Zé Love"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Daniel Schroder GK"
+            },
+            {
+                "name": "João JAPONEGO"
+            }
+        ],
+        "goals_team_a": 16,
+        "goals_team_b": 8
+    },
+    {
+        "date": "2023-12-02T15:30:00",
+        "team_a": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Zé Love"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "Rayes GK"
+            },
+            {
+                "name": "Candemil"
+            }
+        ],
+        "goals_team_a": 15,
+        "goals_team_b": 13
+    },
+    {
+        "date": "2023-12-09T15:30:00",
+        "team_a": [
+            {
+                "name": "Quint"
+            },
+            {
+                "name": "Eraldo"
+            },
+            {
+                "name": "Duds"
+            },
+            {
+                "name": "Cava"
+            },
+            {
+                "name": "John"
+            },
+            {
+                "name": "Leo GK"
+            }
+        ],
+        "team_b": [
+            {
+                "name": "Vini"
+            },
+            {
+                "name": "Moises"
+            },
+            {
+                "name": "Candemil"
+            },
+            {
+                "name": "Felipe Rosa"
+            },
+            {
+                "name": "Daniel Schroder GK"
+            },
+            {
+                "name": "Tuco"
+            }
+        ],
+        "goals_team_a": 14,
+        "goals_team_b": 11
+    }
+]

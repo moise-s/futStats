@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "fut_stats"
+version = "0.1.0"
+description = ""
+authors = ["Moisés do Nascimento <moises.d.nasci@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+auto_mix_prep = "^0.2.0"
+fastapi = "^0.110.0"
+mangum = "^0.17.0"
+python-dotenv = "^1.0.1"
+pydantic = "^2.6.3"
+uvicorn = "^0.27.1"
+black = "^24.2.0"
+isort = "^5.13.2"
+mypy = "^1.8.0"
+pymongo = "^4.6.2"
+flake8 = "^7.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -10,8 +10,8 @@ class Player(BaseModel):
 
 class Match(BaseModel):
     date: datetime
-    team_a: List[Player]
-    team_b: List[Player]
+    team_a: Optional[List[Player]]
+    team_b: Optional[List[Player]]
     goals_team_a: int
     goals_team_b: int
 
